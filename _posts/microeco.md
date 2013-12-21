@@ -3,33 +3,58 @@ layout: page
 title: 经济学原理——微观经济学
 ---
 
-# 经济学十大原理
+## 经济学十大原理
 
 ### 决策
 
 * 人们面对着权衡取舍（People face tradeoffs）
 
-
-
 * 机会成本就是你愿意放弃的事物的价值（The cost of something is what you give up to get it）
+
+一种东西的机会成本（opportunity cost）是为了得到这种东西所放弃的东西。
 
 * 理性人考虑边际量（Rational people think at the margin）
 
+理性人（rational people）系统而有目的地尽最大努力去实现其目标。
+
+边际变动（marginal change）描述对行动计划的微小增量的调整。
+
+通过比较**边际成本**和**边际利益**决策；**当且仅当**一种行为的边际利益大于边际成本时，理性决策者才会行动。
+
 * 人们会对激励作出反应（People respond to incentives）
+
+激励（incentive）是引起一个人对做出某种行为的某种东西。
 
 ### 交易
 
 * 贸易可以使每一个人的状况都变得更好（Trade can make everyone better off）
 
+进行贸易的国家互相之间既是朋友也是竞争对手。
+
 * 市场通常是组织经济活动的一种好办法（Markets are usually a good way to organize economic activity）
+
+市场经济（market economy）中，中央计划者的决策被企业和家庭的决策所取代。
+
+当政府阻止价格根据供求自发调整时，它就限制了“看不见的手”对组成经济的家庭和企业的决策进行协调的能力。
+
+人们都是利己主义者，即每个人都关心自己的福祉。
 
 * 政府有时可以改善市场结果（Governments can sometimes improve market outcomes）
 
+只有在政府实施规则并维持对市场经济至关重要的制度时，看不见的瘦才能施展魔力。
+
+市场经济需实施产权（property rights）去使人们能占有和控制稀缺资源。
 
 ### 经济运行
 
 * 一国的生活水平取决于它的生产水平和服务水平（A country's standard of living depends on its ability to produce goods and services）
 
+生活水平取决于生产率（productivity）。定义：每一单位劳动投入所生产的物品与劳务数量。
+
 * 当政府发行过多货币时，物价上升（Prices rise when the government prints too much money）
 
-* 社会面临通货膨胀与失业之间的短期权衡取舍（Society faces a short-run tradeoff between Inflation and unemployment）
+* 社会面临通货膨胀与失业之间的**短期**权衡取舍（Society faces a short-run tradeoff between Inflation and unemployment）
+
+## 生产可能性边界
+
+在边界上是有效率的；在边界内是无效率的；在边界外则是不可能的。
