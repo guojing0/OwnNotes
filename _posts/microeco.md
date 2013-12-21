@@ -3,11 +3,13 @@ layout: page
 title: 经济学原理——微观经济学
 ---
 
-## 经济学十大原理
+# 经济学十大原理
 
 ### 决策
 
 * 人们面对着权衡取舍（People face tradeoffs）
+
+
 
 * 机会成本就是你愿意放弃的事物的价值（The cost of something is what you give up to get it）
 
