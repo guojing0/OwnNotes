@@ -1,0 +1,5 @@
+baseurl: http://notes.funnyguo.me
+permalink: /:title.html
+markdown: rdiscount
+pygments: true
+date_format: "ordinal"
