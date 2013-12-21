@@ -7,7 +7,7 @@ The site provides what I learnt for people teaching themselves like me.
 =======
 ### [notes.funnyguo.me](http://notes.funnyguo.me/)
 
-### [微观经济学（Microeconomics）](https://github.com/guojing0/self-study-notes/blob/gh-pages/_posts/microeco.md)
+### [微观经济学（Microeconomics）](http://notes.funnyguo.me/notes/microeco.html)
 
 License
 =======
