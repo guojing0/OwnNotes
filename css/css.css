@@ -10,3 +10,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+#footer {
+  border-top: 1px solid #90918B;
+  margin: auto;
+  width: 70%;
+}
