@@ -11,6 +11,15 @@ a:hover {
   text-decoration: underline;
 }
 
+#left {
+
+}
+
+#right {
+  float: right;
+  width: 70%;
+}
+
 #footer {
   border-top: 1px solid #90918B;
   margin: auto;
