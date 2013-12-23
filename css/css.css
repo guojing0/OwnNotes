@@ -20,6 +20,7 @@ a:hover {
 
 #content {
   background-color: #FFFFFF
+  display: block;
 }
 
 #left {
