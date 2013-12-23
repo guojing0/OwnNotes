@@ -28,7 +28,10 @@ a:hover {
 }
 
 #left {
-
+  position: fixed;
+  margin-left: 15%;
+  margin-top: 5%;
+  line-height: 180%;
 }
 
 #right {
