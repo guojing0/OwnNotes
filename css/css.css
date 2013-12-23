@@ -1,6 +1,6 @@
 body {
   margin: auto;
-  border-top: 7px solid #740C08;
+  border-top: 7px solid #910026;
   background-color: #F0F0F0;
 }
 
@@ -33,7 +33,7 @@ a:hover {
 }
 
 #footer {
-  border-top: 1px solid #90918B;
+  border-top: 1px solid #910026;
   margin: auto;
   width: 70%;
   text-align: center;
