@@ -3,6 +3,11 @@ body {
   border-top: 7px solid rgb(116,12,14);
 }
 
+p {
+  font-family: Lucida Grande, sans-serif;
+  font-size: 14px;
+}
+
 a {
   text-decoration: none;
 }
