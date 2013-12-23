@@ -1,6 +1,7 @@
 body {
   margin: auto;
   border-top: 7px solid #740C08;
+  background-color: #F0F0F0;
 }
 
 p {
@@ -15,6 +16,10 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+#content {
+  background-color: #FFFFFF
 }
 
 #left {
