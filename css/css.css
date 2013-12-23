@@ -17,7 +17,8 @@ a:hover {
 
 #right {
   float: right;
-  width: 70%;
+  width: 50%;
+  padding-right: 200px;
 }
 
 #footer {
