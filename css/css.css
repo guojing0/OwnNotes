@@ -1,6 +1,6 @@
 body {
   margin: auto;
-  border-top: 7px solid rgb(116,12,14);
+  border-top: 7px solid #740C08;
 }
 
 p {
@@ -10,6 +10,7 @@ p {
 
 a {
   text-decoration: none;
+  color: #740C08;
 }
 
 a:hover {
