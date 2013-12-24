@@ -7,6 +7,7 @@ body {
 p {
   font-family: Lucida Grande, sans-serif;
   font-size: 14px;
+  margin: 0 15px;
 }
 
 li {
@@ -37,12 +38,12 @@ a:hover {
 #right {
   float: right;
   width: 50%;
-  margin-top: 40px;
-  margin-bottom: 20px;
-  margin-right: 200px;
+  background-color: #FFFFFF;
+  margin: 40px 0 20px 200px;
   -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
   border-radius: 25px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.5);
 }
 
 #footer {
