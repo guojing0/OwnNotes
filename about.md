@@ -9,7 +9,7 @@ title: About
 
 我相信学习的效率是可以提高的。相比坐在椅子上跟着教师的进度，不如学习经过系统整理的知识，并将它们用于现实的生活当中。
 
-The goal of building this website is not only to share my study notes, but to help people and to accelerate the speed of learning new knowledges in a shorter time.
+The goal of building [this website](http://notes.funnyguo.me/) is not only to share my study notes, but to help people and to accelerate the speed of learning new knowledges in a shorter time.
 
 I firmly believe that the efficiency of learning can be accelerated. Compared to people sitting on their chairs in a classroom and following the process of teaching, others learning systematized knowledges study faster so they can contribute more to the society.
 
