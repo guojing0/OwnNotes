@@ -7,7 +7,7 @@ Thank you for browsing this website, Please read the Terms and Conditions contai
 
 ### Intellectual Property Rights
 
-All copyright and othe intellectual property rights in all text, images and other materials on this website belong to Jing Guo.
+All copyright and other intellectual property rights in all text, images and other materials on this website belong to Jing Guo.
 
 You are permitted to browse the content on this website, copy and redistribute them in any medium or format. But you may not use them for commercial purposes, distribute the modified content after you remix, transform, or build upon the original content. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
