@@ -17,8 +17,8 @@ I firmly believe that the efficiency of learning can be accelerated. Compared to
 
 [郭靖](http://www.funnyguo.me/)在2013年的12月创立了这个网站，目的是记录自学笔记并将它分享给每一个人。
 
-郭靖是一名古典音乐爱好者、长跑爱好者和成年人。他在空余时间喜欢阅读、写博客还有学习新的知识。他同样喜欢旅行和摄影。
+郭靖是一名古典音乐爱好者、开发者和长跑爱好者。他在空余时间喜欢阅读、写博客还有学习新的知识。他同样喜欢旅行和摄影。
 
 [Jing Guo](http://www.funnyguo.me/) started the website in December 2013 to update and to share his study notes with everyone in the world.
 
-Jing Guo is a classical music lover, long-distance runner and an adult. He often reads books, writes blogs and learns new knowledges in his spare time. He also loves traveling and photography.
+Jing Guo is a classical music lover, developer and long-distance runner. He often reads books, writes blogs and learns new knowledges in his spare time. He also loves traveling and photography.
