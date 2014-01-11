@@ -7,6 +7,9 @@ title: 微积分（Calculus）
 
 指数函数（Exponentials）： \\( e^{x}= 1+x+\frac{x^{2}}{2!}+\frac{x^{3}}{3!}+ \cdot\cdot\cdot + \frac{x^{h}}{h!} = \sum_{k=0}^\infty \frac{x^{k}}{k!} \\)
 
+微积分
+===
+
 微分： \\( \frac{d}{dx} x^{k} = kx^{k-1} \\)
 积分： \\( \int x^{k} dx = \frac{1}{k+1} x^{k+1} + c \\)
 
