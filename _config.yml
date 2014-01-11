@@ -1,5 +1,5 @@
 baseurl: http://notes.funnyguo.me
 permalink: /:title.html
-markdown: rdiscount
+markdown: maruku
 pygments: true
 date_format: "ordinal"
