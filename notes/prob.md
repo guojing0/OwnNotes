@@ -22,6 +22,6 @@ title: 概率（Probability）
 
 ### 条件概率
 
-* \\( P(X|Y)= \frac{P(X \cap Y)}{P(Y)} \\)
+* \\( P(X|Y) = \frac{P(X\cap Y)}{P(Y)} \\)
 * 全概率公式：\\( P(A)=\sum_{n} P(A\cap B_n)P(B_n) \\)
-* 贝叶斯公式（Bayes' theorem）：\\( P(A_i|B) = \frac{P(B|A_i)P(A_i)}{\sum_j P(B|A_j)P(A_j)} \\)
+* 贝叶斯公式（Bayes' theorem）：\\( P(A_{i}|B)=\frac{P(B|A_{i})P(A_{i})}{\sum_{j} P(B|A_{j})P(A_{j})} \\)
