@@ -3,6 +3,8 @@ layout: page
 title: 微积分（Calculus）
 ---
 
+这是 Coursera 上 Penn 的[单变量微积分](https://www.coursera.org/course/calcsing)课程的笔记
+
 H.O.T. = High Order Terms
 
 欧拉公式（Euler's Formula）： \\( e^{ix}=\cos x+i \sin x \\)
