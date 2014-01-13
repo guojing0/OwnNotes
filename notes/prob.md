@@ -30,3 +30,9 @@ title: 概率（Probability）
 
 * 离散：有限或有可数的无限个
 * 连续：不可数的无限个
+
+### 累积分布函数（CDF）与概率质量函数（PMF）
+
+\\[ CDF: F_{X}(x)=P(X \leq x) \\]
+\\[ PMF: p_{X}(x)=P(X=x) ]]
+\\[ 联系: F_{X}(x)=\sum_{n=-\infty}^{|x|} p_{x}(n) \\]
