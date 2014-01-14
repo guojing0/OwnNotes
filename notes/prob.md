@@ -39,8 +39,6 @@ title: 概率（Probability）
 
 ### 概率分布
 
-* 伯努利分布（Bernoulli distribution）: \\( f_{X}(x)=p^{x}(1-p)^{1-x}=\left\{\begin{matrix} p & \mbox {if }x=1, \\
-q \equiv 1-p\ & \mbox {if }x=0, \\
-0 & \mbox {otherwise.}\end{matrix}\right \\)
-* 二项分布（Binomial distribution）: 
-* 均匀分布（Uniform distribution）: 
+* 伯努利分布（Bernoulli distribution）: \\( f_{X}(x)=p^{x}(1-p)^{1-x}; \\) p if x=1; q if x=2
+* 二项分布（Binomial distribution）: PMF: \\( f(k;n,p) = \Pr(K = k) = {n\choose k}p^k(1-p)^{n-k} \\); CDF: \\( F(x;n,p) = \Pr(X \le x) = \sum_{i=0}^{\lfloor x \rfloor} {n\choose i}p^i(1-p)^{n-i} \\)
+* 均匀分布（Uniform distribution）: PMF: \\( \frac{1}{n} \\); CDF: \\( \frac{n-a+1}{n} \\)
