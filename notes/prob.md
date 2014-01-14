@@ -33,8 +33,6 @@ title: 概率（Probability）
 
 ### 累积分布函数（CDF）与概率质量函数（PMF）
 
-\\[ CDF: F_{X}(x)=P(X \leq x) \\]
-
-\\[ PMF: p_{X}(x)=P(X=x) ]]
-
-\\[ 联系: F_{X}(x)=\sum_{n=-\infty}^{|x|} p_{x}(n) \\]
+* CDF: \\( F_{X}(x)=P(X \leq x) \\)
+* PMF: \\( PMF: p_{X}(x)=P(X=x) \\)
+* 联系: \\(  F_{X}(x)=\sum_{n=-\infty}^{|x|} p_{x}(n) \\)
