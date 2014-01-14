@@ -34,5 +34,13 @@ title: 概率（Probability）
 ### 累积分布函数（CDF）与概率质量函数（PMF）
 
 * CDF: \\( F_{X}(x)=P(X \leq x) \\)
-* PMF: \\( PMF: p_{X}(x)=P(X=x) \\)
-* 联系: \\(  F_{X}(x)=\sum_{n=-\infty}^{|x|} p_{x}(n) \\)
+* PMF: \\( p_{X}(x)=P(X=x) \\)
+* 联系: \\( F_{X}(x)=\sum_{n=-\infty}^{|x|} p_{x}(n) \\)
+
+### 概率分布
+
+* 伯努利分布（Bernoulli distribution）: \\( f_{X}(x)=p^{x}(1-p)^{1-x}=\left\{\begin{matrix} p & \mbox {if }x=1, \\
+q \equiv 1-p\ & \mbox {if }x=0, \\
+0 & \mbox {otherwise.}\end{matrix}\right \\)
+* 二项分布（Binomial distribution）: 
+* 均匀分布（Uniform distribution）: 
