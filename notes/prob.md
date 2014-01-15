@@ -35,7 +35,7 @@ title: 概率（Probability）
 
 * CDF: \\( F_{X}(x)=P(X \leq x) \\)
 * PMF: \\( p_{X}(x)=P(X=x) \\)
-* 联系: \\( F_{X}(x)=\sum_{n=-\infty}^{|x|} p_{x}(n) \\)
+* 联系: \\( F_{X}(x)=\sum_{n=-\infty}^{\| x \|} p_{x}(n) \\)
 
 ### 概率分布
 
