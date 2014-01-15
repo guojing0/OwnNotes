@@ -24,7 +24,7 @@ title: 概率（Probability）
 
 * \\( P(X \| Y) = \frac{P(X\cap Y)}{P(Y)} \\)
 * 全概率公式：\\( P(A)=\sum_{n} P(A\cap B_n)P(B_n) \\)
-* 贝叶斯公式（Bayes' theorem）：\\( P(A_{i} \| B)=\frac{P(B \| A_{i})P(A_{i})}{\sum_{j} P(B \| A_{j})P(A_{j})} \\)
+* 贝叶斯公式（Bayes' theorem）：\\( P(A_{i} \|\ B)=\frac{P(B \|\ A_{i})P(A_{i})}{\sum_{j} P(B \|\ A_{j})P(A_{j})} \\)
 
 ### 随机变量（R.V.)
 
