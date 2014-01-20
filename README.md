@@ -5,9 +5,9 @@ The site provides what I learnt for people teaching themselves like me.
 
 链接（links）
 =======
-### [notes.funnyguo.me](http://notes.funnyguo.me/)
+### [notes.guoj.org](http://notes.guoj.org/)
 
-### [微观经济学（Microeconomics）](http://notes.funnyguo.me/notes/microeco.html)
+### [微观经济学（Microeconomics）](http://notes.guoj.org/notes/microeco.html)
 
 License
 =======
