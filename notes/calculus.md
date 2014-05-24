@@ -33,3 +33,9 @@ title: 单变量微积分（Single Variable Calculus）
 \\[ \sin x =\sum_{k=0}^{\infty } \frac{x^{2k+1}}{(2k+1)!} \\]
 
 \\[ \cos x = \sum_{k=0}^{\infty } \frac{x^{2k}}{(2k)!} \\]
+
+### Taylor series at x = 0
+
+Definition: \\( f(x) = \sum_{k=0}^{\infty } \frac{f^{k}(0)}{k!}x^{k} \\)
+
+The coffcient \\( c_{k} \\): c_{k} = \\( \frac{f^{(k)}(0)}{k!} \\)
