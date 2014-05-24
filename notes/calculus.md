@@ -23,8 +23,9 @@ title: 单变量微积分（Single Variable Calculus）
 
 ### Properties of \\( e^{x} \\)
 
-* \\[ \frac{d}{dx}e^{x} = e^{x} \\]
-* \\[ \int e^{x}dx = e^{x} + C \\]
+\\[ \frac{d}{dx}e^{x} = e^{x} \\]
+
+\\[ \int e^{x}dx = e^{x} + C \\]
 
 ### Euler's formula
 
@@ -39,3 +40,13 @@ title: 单变量微积分（Single Variable Calculus）
 Definition: \\( f(x) = \sum_{k=0}^{\infty } \frac{f^{k}(0)}{k!}x^{k} \\)
 
 The coffcient \\( c_{k} \\): c_{k} = \\( \frac{f^{(k)}(0)}{k!} \\)
+
+### Hyperbolic trig functions
+
+\\[ sinh(x) = \frac{e^{x}-e^{-x}}{2} \\]
+
+\\[ cosh(x) = \frac{e^{x}+e^{-x}}{2} \\]
+
+\\[ tanh(x) = \frac{sinh(x)}{cosh(x)} = \frac{e^{x}-e^{-x}}{e^{x}+e^{-x}} \\]
+
+\\[cosh^{2}(x) - sinh^{2}(x) = 1 \\]
