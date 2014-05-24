@@ -43,10 +43,13 @@ The coffcient \\( c_{k} \\): c_{k} = \\( \frac{f^{(k)}(0)}{k!} \\)
 
 ### Hyperbolic trig functions
 
-\\[ sinh(x) = \frac{e^{x}-e^{-x}}{2} \\]
+\\[ sinh(x) = \frac{e^{x}-e^{-x}}{2} = \sum_{k=0}^{\infty } \frac{x^{2k+1}}{(2k+1)!} \\]
 
-\\[ cosh(x) = \frac{e^{x}+e^{-x}}{2} \\]
+\\[ cosh(x) = \frac{e^{x}+e^{-x}}{2} = \sum_{k=0}^{\infty } \frac{x^{2k}}{(2k)!} \\]
 
 \\[ tanh(x) = \frac{sinh(x)}{cosh(x)} = \frac{e^{x}-e^{-x}}{e^{x}+e^{-x}} \\]
 
 \\[cosh^{2}(x) - sinh^{2}(x) = 1 \\]
+
+\\[ \frac{d}{dx} sinh x = cosh x \\]
+\\[ \frac{d}{dx} cosh x = sinh x \\]
