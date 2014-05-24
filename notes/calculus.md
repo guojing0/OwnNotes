@@ -7,6 +7,8 @@ title: 单变量微积分（Single Variable Calculus）
 
 * Product rule: \\( (fg)' = f'g + fg' \\)
 
+* Quotient rule: \\( (\frac{g}{h})' = \frac{g'h - gh'}{h^2} \\)
+
 * Chain rule: \\( (f\circ g)'(x) = g'(x)f'(g(x)) \\)
 
 ### Operations
@@ -37,7 +39,7 @@ title: 单变量微积分（Single Variable Calculus）
 
 Definition: \\( f(x) = \sum_{k=0}^{\infty } \frac{f^{k}(0)}{k!}x^{k} \\)
 
-The coffcient \\( c_{k} \\): c_{k} = \\( \frac{f^{(k)}(0)}{k!} \\)
+The coffcient: \\( c_{k} = \frac{f^{(k)}(0)}{k!} \\)
 
 ### Hyperbolic trig functions
 
