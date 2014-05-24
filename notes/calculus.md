@@ -7,8 +7,6 @@ title: 单变量微积分（Single Variable Calculus）
 
 * Product rule: \\( (fg)' = f'g + fg' \\)
 
-* Quotient rule: if \\( f(x) = \frac{g(x)}{h(x)} \\) then \\( \frac{d}{dx}f(x) = f'(x) = \frac{g'(x)h(x) - g(x)h'(x)}{{h(x)}^2} \\)
-
 * Chain rule: \\( (f\circ g)'(x) = g'(x)f'(g(x)) \\)
 
 ### Operations
