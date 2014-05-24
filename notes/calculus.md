@@ -31,9 +31,9 @@ title: 单变量微积分（Single Variable Calculus）
 
 \\[ e^{ix} = \cos x + i \sin x \\]
 
-\\[ \sin x =\sum_{k=0}^{\infty } \frac{x^{2k+1}}{(2k+1)!} \\]
+\\[ \sin x =\sum_{k=0}^{\infty } (-1)^{k} \frac{x^{2k+1}}{(2k+1)!} \\]
 
-\\[ \cos x = \sum_{k=0}^{\infty } \frac{x^{2k}}{(2k)!} \\]
+\\[ \cos x = \sum_{k=0}^{\infty } (-1)^{k} \frac{x^{2k}}{(2k)!} \\]
 
 ### Taylor series at x = 0
 
